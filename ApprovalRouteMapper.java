@@ -10,7 +10,7 @@ import com.chinamobile.epic.zebra.model.ApprovalRoute;
 @Mapper
 public interface ApprovalRouteMapper {
   /**
-   * 根据部门Id删除审批路径
+   * 根据部门Id删除审路径
    * @param organizationId
    * @return
    */
